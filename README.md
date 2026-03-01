@@ -7,7 +7,7 @@ Un simple projet HTML avec du CSS et du JavaScript.
 
 ## Installation
 ```bash
-git clone https://github.com/[ton-username]/test.git
+git clone https://github.com/ad6211/test.git
 ```
 
 ## Utilisation
